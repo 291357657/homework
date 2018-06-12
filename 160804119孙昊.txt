@@ -1,5 +1,3 @@
-# homework
-zuoye
 exercise1
 @@ -0,0 +1,12 @@
 +# 1.Create a file called message.txt in your home directory and move it into another directory.
@@ -24,7 +22,7 @@ exercise2
 +vim /home/workbench/readme.txt
 +esc + :wq
 +
-+# Append the numbers 1, 2, and 3 to readme.txt so that each number appears on itâ€™s own line.
++# Append the numbers 1, 2, and 3 to readme.txt so that each number appears on it¡¯s own line.
 +echo -e "1\n2\n3" > /home/workbench/readme.txt
 +
 +# Print readme.txt to the command line.
